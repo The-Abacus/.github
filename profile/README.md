@@ -14,15 +14,22 @@
 <!-- Colorful link badges -->
 <a href="https://github.com/The-Abacus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://theabacus.org"><img src="https://img.shields.io/badge/theabacus.org-10B981?style=for-the-badge&logo=link&logoColor=white" alt="Website" /></a>
-<a href="https://github.com/The-Abacus-Foundation"><img src="https://img.shields.io/badge/Foundation-8B5CF6?style=for-the-badge&logo=heart&logoColor=white" alt="Foundation" /></a>
+<a href="https://github.com/The-Abacus-Foundation"><img src="https://img.shields.io/badge/Foundation_Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Foundation GitHub" /></a>
+<a href="https://theabacusfoundation.org/"><img src="https://img.shields.io/badge/Foundation_Website-8B5CF6?style=for-the-badge&logo=link&logoColor=white" alt="Foundation Website" /></a>
 <a href="mailto:contact@theabacus.org"><img src="https://img.shields.io/badge/Contact-EC4899?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contact" /></a>
 
 <br/>
 <br/>
 
-<!-- Stats row - adds motion and color -->
-<img src="https://github-readme-stats.vercel.app/api?username=The-Abacus&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=6366f1" height="165" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Abacus&theme=radical&hide_border=true&background=0d1117&ring=ec4899&fire=10b981&currStreakLabel=6366f1" height="165" alt="Streak" />
+<!-- Modern: contribution graph + compact stats -->
+<a href="https://github.com/The-Abacus">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Abacus&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=6366f1&point=ec4899&line=10b981" width="100%" alt="Contribution graph" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=The-Abacus&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ec4899&icon_color=6366f1&text_color=c9d1d9" height="140" alt="Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Abacus&theme=transparent&hide_border=true&background=0d1117&ring=6366f1&fire=ec4899&currStreakLabel=10b981" height="140" alt="Streak" />
 
 <br/>
 
@@ -38,8 +45,6 @@
 <div align="center">
 
 ## 🛤️ Journey
-
-</div>
 
 <table align="center">
 <tr>
@@ -69,7 +74,7 @@ Cloud, reliability, and systems that scale.
 <img src="https://img.shields.io/badge/Now-EC4899?style=for-the-badge&logo=openai&logoColor=white" alt="Now" />
 </td>
 <td width="26%" align="center">
-<strong>AI Developer</strong>
+<strong>Infrastructure Engineer and AI Developer</strong>
 </td>
 <td>
 Building AI-powered tools for <strong>public use</strong> (free, no paywalls) and <strong>helping non-profits grow</strong> — using AI, automation, and tech so they can reach more people and <strong>achieve their goals</strong>.
@@ -77,9 +82,29 @@ Building AI-powered tools for <strong>public use</strong> (free, no paywalls) an
 </tr>
 </table>
 
-<div align="center">
-
 *Technology should **empower people** through transparency, trust, and education. My goal: help non-profits grow their impact and achieve their mission with AI and modern tools.*
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,6,12&height=2&section=header" width="80%" alt="line" />
+<br/>
+
+## 🛠️ Work I've shipped
+
+Real products, live and free to use:
+
+| Product | What it is | Link |
+|:--------|:-----------|:-----|
+| **The Abacus Calculators** | 58+ free calculators (financial, fitness, math, engineering) — works offline, no account needed. | [theabacus.org](https://theabacus.org) |
+| **The Abacus Budget** | Local-first personal finance: track expenses, budgets, receipt scanning, optional cloud save, encryption. | [budget.theabacus.org](https://budget.theabacus.org) |
+| **Abacus iOS** | Native iOS, iPadOS & macOS app — Swift 6, SwiftUI. | [App Store](https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335) |
+| **Foundation website** | Public site, project hub, volunteer program. | [theabacusfoundation.org](https://theabacusfoundation.org/) |
+
+### 🚀 Coming soon
+
+| Project | Description |
+|:--------|:-------------|
+| **Accounting software for small business** | Simple, free accounting tools for small businesses and sole proprietors — invoicing, expenses, and reports without lock-in or subscriptions. |
+| **QR applications** | QR code generator and scanner tools for everyday use — create and read QR codes, business cards, and more; free and privacy-focused. |
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,6,12&height=2&section=header" width="80%" alt="line" />
@@ -103,7 +128,7 @@ Pro-bono dev, infra, and AI for non-profits — helping them **grow**, operate b
 
 <img src="https://img.shields.io/badge/What_we_ship-0EA5E9?style=for-the-badge" alt="Ship" />
 
-<a href="https://budget.theabacus.org">Budget</a> · <a href="https://theabacus.org">Calculators</a> · <a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335">iOS</a> · <a href="https://theabacusfoundation.org">Site</a>
+<a href="https://budget.theabacus.org">Budget</a> · <a href="https://theabacus.org">Calculators</a> · <a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335">iOS</a> · <a href="https://theabacusfoundation.org/">Site</a>
 
 </td>
 </tr>
@@ -112,7 +137,7 @@ Pro-bono dev, infra, and AI for non-profits — helping them **grow**, operate b
 <div align="center">
 
 <a href="https://github.com/The-Abacus-Foundation"><img src="https://img.shields.io/badge/View_Organization-The_Abacus_Foundation-6366F1?style=for-the-badge&logo=github" alt="Org" /></a>
-<a href="https://theabacusfoundation.org"><img src="https://img.shields.io/badge/Website-theabacusfoundation.org-10B981?style=for-the-badge" alt="Web" /></a>
+<a href="https://theabacusfoundation.org/"><img src="https://img.shields.io/badge/Website-theabacusfoundation.org-10B981?style=for-the-badge" alt="Web" /></a>
 
 <br/>
 <br/>
@@ -126,6 +151,21 @@ Pro-bono dev, infra, and AI for non-profits — helping them **grow**, operate b
 <a href="https://github.com/The-Abacus"><img src="https://img.shields.io/badge/Profile-The--Abacus-181717?style=flat-square&logo=github" alt="Profile" /></a>
 <a href="https://github.com/The-Abacus-Foundation"><img src="https://img.shields.io/badge/Foundation-Org-8B5CF6?style=flat-square&logo=github" alt="Foundation" /></a>
 <a href="https://theabacus.org"><img src="https://img.shields.io/badge/Site-theabacus.org-10B981?style=flat-square" alt="Site" /></a>
+
+<br/>
+<br/>
+
+### Email
+
+| Purpose | Email |
+|:--------|:------|
+| **General** | [contact@theabacus.org](mailto:contact@theabacus.org) |
+| **Support** | [support@theabacus.org](mailto:support@theabacus.org) |
+| **Partners** | [partners@theabacus.org](mailto:partners@theabacus.org) |
+| **Foundation & sponsors** | [foundation@theabacus.org](mailto:foundation@theabacus.org) |
+| **Volunteer** | [volunteer@theabacus.org](mailto:volunteer@theabacus.org) |
+| **Developers** | [dev@theabacus.org](mailto:dev@theabacus.org) |
+| **Dhaval** | [dhaval@theabacus.org](mailto:dhaval@theabacus.org) |
 
 <br/>
 <br/>
