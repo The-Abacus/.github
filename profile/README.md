@@ -14,6 +14,7 @@
 <!-- Colorful link badges -->
 <a href="https://github.com/The-Abacus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://theabacus.org"><img src="https://img.shields.io/badge/theabacus.org-10B981?style=for-the-badge&logo=link&logoColor=white" alt="Website" /></a>
+<a href="https://linkedin.com/in/dhaval22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/The-Abacus-Foundation"><img src="https://img.shields.io/badge/Foundation_Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Foundation GitHub" /></a>
 <a href="https://theabacusfoundation.org/"><img src="https://img.shields.io/badge/Foundation_Website-8B5CF6?style=for-the-badge&logo=link&logoColor=white" alt="Foundation Website" /></a>
 <a href="mailto:contact@theabacus.org"><img src="https://img.shields.io/badge/Contact-EC4899?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contact" /></a>
@@ -21,15 +22,13 @@
 <br/>
 <br/>
 
-<!-- Modern: contribution graph + compact stats -->
+<!-- Stats: neutral theme for dark & light mode -->
 <a href="https://github.com/The-Abacus">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Abacus&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=6366f1&point=ec4899&line=10b981" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Abacus&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=24292f&icon_color=0366d6&text_color=24292f" height="150" alt="Stats" />
 </a>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=The-Abacus&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ec4899&icon_color=6366f1&text_color=c9d1d9" height="140" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Abacus&theme=transparent&hide_border=true&background=0d1117&ring=6366f1&fire=ec4899&currStreakLabel=10b981" height="140" alt="Streak" />
+<a href="https://github.com/The-Abacus">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Abacus&theme=default&hide_border=true&background=ffffff&ring=0366d6&fire=22863a&currStreakLabel=24292f" height="150" alt="Streak" />
+</a>
 
 <br/>
 
@@ -149,6 +148,7 @@ Pro-bono dev, infra, and AI for non-profits — helping them **grow**, operate b
 <br/>
 
 <a href="https://github.com/The-Abacus"><img src="https://img.shields.io/badge/Profile-The--Abacus-181717?style=flat-square&logo=github" alt="Profile" /></a>
+<a href="https://linkedin.com/in/dhaval22"><img src="https://img.shields.io/badge/LinkedIn-dhaval22-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 <a href="https://github.com/The-Abacus-Foundation"><img src="https://img.shields.io/badge/Foundation-Org-8B5CF6?style=flat-square&logo=github" alt="Foundation" /></a>
 <a href="https://theabacus.org"><img src="https://img.shields.io/badge/Site-theabacus.org-10B981?style=flat-square" alt="Site" /></a>
 
